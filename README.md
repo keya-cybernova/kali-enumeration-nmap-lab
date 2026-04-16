@@ -49,7 +49,19 @@ Used NSE scripts for focused analysis.
 
 ## 📸 Screenshots
 
-See screenshots folder for evidence.
+## 📸 Screenshots
+
+### 1. Nmap Basic Scan
+![Nmap Basic](screenshots/03_nmap_basic_scan.png)
+
+### 2. Service Version Detection
+![Service Version](screenshots/04_nmap_service_versions.png)
+
+### 3. Aggressive Scan
+![Aggressive Scan](screenshots/05_nmap_aggressive_scan.png)
+
+### 4. Targeted Enumeration
+![Targeted Enumeration](screenshots/06_targeted_enumeration.png).
 
 ---
 
